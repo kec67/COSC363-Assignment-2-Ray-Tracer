@@ -1,0 +1,114 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Cone.cpp
+Cone.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Cone.h
+math.h
+-
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Cone.h
+glm/glm.hpp
+-
+SceneObject.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/SceneObject.h
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Cylinder.cpp
+Cylinder.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Cylinder.h
+math.h
+-
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Cylinder.h
+glm/glm.hpp
+-
+SceneObject.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/SceneObject.h
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Plane.cpp
+Plane.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Plane.h
+math.h
+-
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Plane.h
+glm/glm.hpp
+-
+SceneObject.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/SceneObject.h
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Ray.cpp
+Ray.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Ray.h
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Ray.h
+glm/glm.hpp
+-
+vector
+-
+SceneObject.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/SceneObject.h
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/RayTracer.cpp
+iostream
+-
+cmath
+-
+vector
+-
+glm/glm.hpp
+-
+Sphere.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Sphere.h
+SceneObject.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/SceneObject.h
+Ray.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Ray.h
+GL/glut.h
+-
+Cylinder.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Cylinder.h
+Cone.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Cone.h
+Plane.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Plane.h
+TextureBMP.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/TextureBMP.h
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/SceneObject.cpp
+SceneObject.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/SceneObject.h
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/SceneObject.h
+glm/glm.hpp
+-
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Sphere.cpp
+Sphere.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Sphere.h
+math.h
+-
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/Sphere.h
+glm/glm.hpp
+-
+SceneObject.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/SceneObject.h
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/TextureBMP.cpp
+TextureBMP.h
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/TextureBMP.h
+
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/TextureBMP.h
+iostream
+-
+fstream
+-
+glm/glm.hpp
+-
+

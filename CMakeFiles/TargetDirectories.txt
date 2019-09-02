@@ -1,0 +1,3 @@
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/CMakeFiles/rebuild_cache.dir
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/CMakeFiles/RayTracer.out.dir
+/home/cosc/student/kec67/Downloads/Cosc363 Assignment 2 (copy)/CMakeFiles/edit_cache.dir
